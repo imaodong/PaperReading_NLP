@@ -30,8 +30,10 @@
 - **CKC**: "Keyword-Guided Neural Conversational Model". *AAAI(2021)* [📄 paper](https://arxiv.org/abs/2012.08383) [💻 code](https://github.com/zhongpeixiang/CKC)  📌 
 - **TGConv**: "Target-Guided Open-Domain Conversation". *ACL(2019)* [📄 paper](https://aclanthology.org/P19-1565/) [💻 code](https://github.com/squareRoot3/Target-Guided-Conversation)  📌 
 
+### 🔸 Conversational Recommendation System (Recommendation Dialogue)
+- **SCREEN**: "SCREEN: ABenchmark for Situated Conversational Recommendation". *MM(2024)* [📄 paper](https://dl.acm.org/doi/pdf/10.1145/3664647.3681651) [💻 code](https://github.com/DongdingLin/SCREEN)  📌 
 
-### 🔸 Misc. of Proactive Dialogues
+### 🔸 Misc. of Proactive Dialogue
 - **DPDP**: "Planning Like Human: A Dual-process Framework for Dialogue Planning". *ACL(2024)* [📄 paper](https://aclanthology.org/2024.acl-long.262/) [💻 code](https://github.com/cs-holder/DPDP)  📌 
 - **PPDPP**: "Plug-and-Play Policy Planner for Large Language Model Powered Dialogue Agents". *ICLR(2024)* [📄 paper](https://arxiv.org/abs/2311.00262) [💻 code](https://github.com/dengyang17/PPDPP)  ✅
 
