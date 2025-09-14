@@ -12,10 +12,12 @@
 - **ChatSOP**: "ChatSOP: An SOP-Guided MCTS Planning Framework for Controllable LLM Dialogue Agents". *ICLR(2024)* [📄 paper](https://aclanthology.org/2025.acl-long.863/) [💻 code](https://github.com/tjunlp-lab/ChatSOP)  📌 
 
 
+
 ## 🔹 Dialogue
 ### 🔸 Proactive Dialogue Survey
-- "A Survey on Proactive Dialogue Systems: Problems, Methods, and Prospects". *IJCAI(2023)* [📄 paper](https://arxiv.org/abs/2305.02750)  ✅
-- "Proactive Conversational AI: A Comprehensive Survey of Advancements and Opportunities". *ACM-transactions(2025)* [📄 paper](https://dl.acm.org/doi/pdf/10.1145/3715097)  ✅
+- **Survey**: "A Survey on Proactive Dialogue Systems: Problems, Methods, and Prospects". *IJCAI(2023)* [📄 paper](https://arxiv.org/abs/2305.02750)  ✅
+- **Survey**: "Proactive Conversational AI: A Comprehensive Survey of Advancements and Opportunities". *ACM-transactions(2025)* [📄 paper](https://dl.acm.org/doi/pdf/10.1145/3715097)  ✅
+
 
 ### 🔸 Goal-oriented (Target-oriented) Proactive Dialogue
 - **CRC**: "Enhancing Goal-oriented Proactive Dialogue Systems via Consistency Reflection and Correction". *ACL(2025)* [📄 paper](https://aclanthology.org/2025.acl-long.1050/)  ✅
@@ -30,12 +32,19 @@
 - **CKC**: "Keyword-Guided Neural Conversational Model". *AAAI(2021)* [📄 paper](https://arxiv.org/abs/2012.08383) [💻 code](https://github.com/zhongpeixiang/CKC)  📌 
 - **TGConv**: "Target-Guided Open-Domain Conversation". *ACL(2019)* [📄 paper](https://aclanthology.org/P19-1565/) [💻 code](https://github.com/squareRoot3/Target-Guided-Conversation)  📌 
 
+
 ### 🔸 Conversational Recommendation System (Recommendation Dialogue)
 - **SCREEN**: "SCREEN: ABenchmark for Situated Conversational Recommendation". *MM(2024)* [📄 paper](https://dl.acm.org/doi/pdf/10.1145/3664647.3681651) [💻 code](https://github.com/DongdingLin/SCREEN)  📌 
+
+
+
+
+
 
 ### 🔸 Misc. of Proactive Dialogue
 - **DPDP**: "Planning Like Human: A Dual-process Framework for Dialogue Planning". *ACL(2024)* [📄 paper](https://aclanthology.org/2024.acl-long.262/) [💻 code](https://github.com/cs-holder/DPDP)  📌 
 - **PPDPP**: "Plug-and-Play Policy Planner for Large Language Model Powered Dialogue Agents". *ICLR(2024)* [📄 paper](https://arxiv.org/abs/2311.00262) [💻 code](https://github.com/dengyang17/PPDPP)  ✅
+
 
 
 ## 🔹 Question Generation
@@ -43,8 +52,10 @@
 - **DPKG**: "Multi-Hop Question Generation via Dual-Perspective Keyword Guidance". *ACL-Finding(2025)* [📄 paper](https://aclanthology.org/2025.findings-acl.526/) [💻 code](https://github.com/imaodong/DPKG)  🔥 ✅
 - **SGCM**: "SGCM: Salience-Guided Context Modeling for Question Generation". *COLING(2025)* [📄 paper](https://aclanthology.org/2024.lrec-main.1285/)  ✅
 
+
 ### 🔸 Single-hop Question Generation (Shallow Question Generation)
-- "Question Answering and Question Generation as Dual Tasks". *AAAI(2018)* [📄 paper](https://arxiv.org/abs/1706.02027)  ✅
+- **QA&QG**: "Question Answering and Question Generation as Dual Tasks". *AAAI(2018)* [📄 paper](https://arxiv.org/abs/1706.02027)  ✅
+
 
 ### 🔸 Conversation Question Generation
 - **From Superficial to Deep**: "From Superficial to Deep: Integrating External Knowledge for Follow-up Question Generation Using Knowledge Graph and LLM
