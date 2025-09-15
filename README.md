@@ -37,8 +37,12 @@
 - **SCREEN**: "SCREEN: ABenchmark for Situated Conversational Recommendation". *MM(2024)* [📄 paper](https://dl.acm.org/doi/pdf/10.1145/3664647.3681651) [💻 code](https://github.com/DongdingLin/SCREEN)  📌 
 
 
-
-
+### 🔸 Emotional Dialogue (Emotional Support Dialogue & Empathetic Dialogue)
+- **DKPE**: "Enhancing Emotional Support Conversations: A Framework for Dynamic Knowledge Filtering and Persona Extraction". *COLING(2025)* [📄 paper](https://aclanthology.org/2025.coling-main.214/) [💻 code](https://github.com/Jwhao1999/DKPE)  📌
+- **KEMI**: "Knowledge-enhanced Mixed-initiative Dialogue System for Emotional Support Conversations". *ACL(2023)* [📄 paper](https://aclanthology.org/2023.acl-long.225/) [💻 code](https://github.com/dengyang17/KEMI)  📌
+- **MultiESC**: "Improving Multi-turn Emotional Support Dialogue Generation with Lookahead Strategy Planning". *EMNLP(2022)* [📄 paper](https://aclanthology.org/2022.emnlp-main.195/) [💻 code](https://github.com/lwgkzl/MultiESC)  📌
+- **ESConv**: "Towards Emotional Support Dialog Systems". *ACL(2021)* [📄 paper](https://aclanthology.org/2021.acl-long.269/) [💻 code](https://github.com/thu-coai/Emotional-Support-Conversation)  📌 
+- **EmpatheticDialogues**: "Towards Empathetic Open-domain Conversation Models: A New Benchmark and Dataset". *ACL(2019)* [📄 paper](https://aclanthology.org/P19-1534/) [💻 code](https://github.com/facebookresearch/EmpatheticDialogues)  📌 
 
 
 ### 🔸 Misc. of Proactive Dialogue
@@ -57,7 +61,7 @@
 - **QA&QG**: "Question Answering and Question Generation as Dual Tasks". *AAAI(2018)* [📄 paper](https://arxiv.org/abs/1706.02027)  ✅
 
 
-### 🔸 Conversation Question Generation
+### 🔸 Conversational Question Generation
 - **From Superficial to Deep**: "From Superficial to Deep: Integrating External Knowledge for Follow-up Question Generation Using Knowledge Graph and LLM
 ". *COLING(2025)* [📄 paper](https://aclanthology.org/2025.coling-main.55/)  📌 
 - **ZeroCQG**: "Synthesize, Prompt and Transfer: Zero-shot Conversational Question Generation with Pre-trained Language Model". *ACL(2023)* [📄 paper](https://aclanthology.org/2023.acl-long.500/) [💻 code](https://github.com/hongweizeng/ZeroCQG)  📌
