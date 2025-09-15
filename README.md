@@ -3,13 +3,15 @@
 ---
 
 ## 🔹 Basic Papers in NLP
-- **LLaMA3**: "The Llama 3 Herd of Models". *arxiv(2024)* [📄 paper](https://arxiv.org/abs/2407.21783?utm_source=chatgpt.com)  📌 
+- **LLaMA3**: "The Llama 3 Herd of Models". *arXiv(2024)* [📄 paper](https://arxiv.org/abs/2407.21783?utm_source=chatgpt.com)  📌 
 - **ELMo**: "Deep contextualized word representations". *NAACL(2018)* [📄 paper](https://aclanthology.org/N18-1202/) [💻 code](https://github.com/allenai/bilm-tf) 🔥
 - **Transformer**: "Attention is All you Need". *NeurIPS(2017)* [📄 paper](https://arxiv.org/abs/1706.03762)  🔥
 
 
 ## 🔹 LLM Agents (LLM-based Dialogue Agents)
-- **ChatSOP**: "ChatSOP: An SOP-Guided MCTS Planning Framework for Controllable LLM Dialogue Agents". *ICLR(2024)* [📄 paper](https://aclanthology.org/2025.acl-long.863/) [💻 code](https://github.com/tjunlp-lab/ChatSOP)  📌 
+- **ChatSOP**: "ChatSOP: An SOP-Guided MCTS Planning Framework for Controllable LLM Dialogue Agents". *ICLR(2024)* [📄 paper](https://aclanthology.org/2025.acl-long.863/) [💻 code](https://github.com/tjunlp-lab/ChatSOP)  📌
+- **DialOp**: "Decision-Oriented Dialogue for Human-AI Collaboration". *TACL(2024)* [📄 paper](https://arxiv.org/abs/2305.20076) [💻 code](https://github.com/jlin816/dialop)  📌 
+- **EduChat**: "A Large-Scale Language Model-based Chatbot System for Intelligent Education". *arXiv(2023)* [📄 paper](https://arxiv.org/abs/2308.02773) [💻 code](https://github.com/ECNU-ICALK/EduChat)  📌 
 
 
 
@@ -35,6 +37,16 @@
 
 ### 🔸 Conversational Recommendation System (Recommendation Dialogue)
 - **SCREEN**: "SCREEN: ABenchmark for Situated Conversational Recommendation". *MM(2024)* [📄 paper](https://dl.acm.org/doi/pdf/10.1145/3664647.3681651) [💻 code](https://github.com/DongdingLin/SCREEN)  📌 
+- **KERS**: "KERS: A Knowledge-Enhanced Framework for Recommendation Dialog Systems with Multiple Subgoals". *EMNLP-Findings(2021)* [📄 paper](https://aclanthology.org/2021.findings-emnlp.94/) [💻 code](https://github.com/z562/KERS)  📌 
+- **CR-Walker**: "CR-Walker: Tree-Structured Graph Reasoning and Dialog Acts for Conversational Recommendation". *EMNLP(2021)* [📄 paper](https://aclanthology.org/2021.emnlp-main.139/) [💻 code](https://github.com/truthless11/CR-Walker)  📌
+- **DuRecDial2.0**: "DuRecDial 2.0: A Bilingual Parallel Corpus for Conversational Recommendation". *EMNLP(2021)* [📄 paper](https://aclanthology.org/2021.emnlp-main.356/) [💻 code](https://github.com/liuzeming01/DuRecDial)  📌
+- **Survey**: "A Survey on Conversational Recommender Systems". *ACM Computing Surveys(2021)* [📄 paper](https://arxiv.org/abs/2004.00646)  📌 
+- **Survey**: "Advances and Challenges in Conversational Recommender Systems: A Survey". *arXiv(2021)* [📄 paper](https://arxiv.org/abs/2101.09459)  📌 
+- **CRSLab**: "CRSLab: An Open-Source Toolkit for Building Conversational Recommender System". *IJCNLP(2021)* [📄 paper](https://aclanthology.org/2021.acl-demo.22/) [💻 code](https://github.com/RUCAIBox/CRSLab)  📌 
+- **INSPIRED**: "INSPIRED: Toward Sociable Recommendation Dialog Systems". *EMNLP(2020)* [📄 paper](https://aclanthology.org/2020.emnlp-main.654/) [💻 code](https://github.com/sweetpeach/Inspired)  📌 
+- **DuRecDial**: "Towards Conversational Recommendation over Multi-Type Dialogs". *ACL(2020)* [📄 paper](https://aclanthology.org/2020.acl-main.98/) [💻 code](https://github.com/PaddlePaddle/Research/tree/master/NLP/ACL2020-DuRecDial)  📌
+- **TG-ReDial**: "Towards Topic-Guided Conversational Recommender System". *COLING(2020)* [📄 paper](https://aclanthology.org/2020.coling-main.365/) [💻 code](https://github.com/RUCAIBox/TG-ReDial)  📌
+
 
 
 ### 🔸 Emotional Dialogue (Emotional Support Dialogue & Empathetic Dialogue)
@@ -48,13 +60,21 @@
 ### 🔸 Misc. of Proactive Dialogue
 - **DPDP**: "Planning Like Human: A Dual-process Framework for Dialogue Planning". *ACL(2024)* [📄 paper](https://aclanthology.org/2024.acl-long.262/) [💻 code](https://github.com/cs-holder/DPDP)  📌 
 - **PPDPP**: "Plug-and-Play Policy Planner for Large Language Model Powered Dialogue Agents". *ICLR(2024)* [📄 paper](https://arxiv.org/abs/2311.00262) [💻 code](https://github.com/dengyang17/PPDPP)  ✅
-
+- **ProCoT**: "Prompting and Evaluating Large Language Models for Proactive Dialogues: Clarification, Target-guided, and Non-collaboration". *EMNLP-Findings(2023)* [📄 paper](https://aclanthology.org/2023.findings-emnlp.711/) [💻 code](https://github.com/dengyang17/LLM-Proactive)  📌 
 
 
 ## 🔹 Question Generation
 ### 🔸 Multi-hop Question Generation (Deep Question Generation)
 - **DPKG**: "Multi-Hop Question Generation via Dual-Perspective Keyword Guidance". *ACL-Finding(2025)* [📄 paper](https://aclanthology.org/2025.findings-acl.526/) [💻 code](https://github.com/imaodong/DPKG)  🔥 ✅
 - **SGCM**: "SGCM: Salience-Guided Context Modeling for Question Generation". *COLING(2025)* [📄 paper](https://aclanthology.org/2024.lrec-main.1285/)  ✅
+- **MuSiQue**: "MuSiQue: Multihop Questions via Single-hop Question Composition". *TACL(2024)* [📄 paper](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00475/110996/MuSiQue-Multihop-Questions-via-Single-hop-Question) [💻 code](https://github.com/stonybrooknlp/musique)  ✅
+- **Survey**: "A Survey on Neural Question Generation: Methods, Applications, and Prospects". *IJCAI(2024)* [📄 paper](https://arxiv.org/abs/2402.18267) [💻 code](https://github.com/PersistenceForever/Neural-Question-Generation-Survey-List)  ✅
+- **MultiFactor**: "Improving Question Generation with Multi-level Content Planning". *EMNLP-Findings(2023)* [📄 paper](https://aclanthology.org/2023.findings-emnlp.57/) [💻 code](https://github.com/zeaver/MultiFactor)  ✅
+- **QA4QG**: "QA4QG: Using Question Answering to Constrain Multi-Hop Question Generation". *ICASSP(2022)* [📄 paper](https://arxiv.org/abs/2202.06538)  ✅
+- **CQG**: "CQG: A Simple and Effective Controlled Generation Framework for Multi-hop Question Generation". *ACL(2022)* [📄 paper](https://aclanthology.org/2022.acl-long.475/) [💻 code](https://github.com/sion-zcfei/CQG)  🔥 ✅
+- **MulQG**: "Multi-hop Question Generation with Graph Convolutional Network". *EMNLP-Findings(2020)* [📄 paper](https://aclanthology.org/2020.findings-emnlp.416/) [💻 code](https://github.com/HLTCHKUST/MulQG)  🔥 ✅
+
+
 
 
 ### 🔸 Single-hop Question Generation (Shallow Question Generation)
