@@ -49,6 +49,7 @@
 - **INSPIRED**: "INSPIRED: Toward Sociable Recommendation Dialog Systems". *EMNLP(2020)* [📄 paper](https://aclanthology.org/2020.emnlp-main.654/) [💻 code](https://github.com/sweetpeach/Inspired)  📌 
 - **DuRecDial**: "Towards Conversational Recommendation over Multi-Type Dialogs". *ACL(2020)* [📄 paper](https://aclanthology.org/2020.acl-main.98/) [💻 code](https://github.com/PaddlePaddle/Research/tree/master/NLP/ACL2020-DuRecDial)  📌
 - **TG-ReDial**: "Towards Topic-Guided Conversational Recommender System". *COLING(2020)* [📄 paper](https://aclanthology.org/2020.coling-main.365/) [💻 code](https://github.com/RUCAIBox/TG-ReDial)  📌
+- **ReDial**: "Towards Deep Conversational Recommendations". *NeurIPS(2018)* [📄 paper](https://proceedings.neurips.cc/paper/2018/hash/800de15c79c8d840f4e78d3af937d4d4-Abstract.html) [💻 code](https://github.com/ReDialData/website)  📌
 
 
 
