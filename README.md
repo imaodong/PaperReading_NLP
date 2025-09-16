@@ -22,8 +22,10 @@
 
 
 ### 🔸 Goal-oriented (Target-oriented) Proactive Dialogue
+(Personal understanding: I think proactive dialogue is similar to a recommendation system (in dialogue) in some aspects, as they both involve guiding users to do something. If you have a better opinion, please let me know.)
 - **CRC**: "Enhancing Goal-oriented Proactive Dialogue Systems via Consistency Reflection and Correction". *ACL(2025)* [📄 paper](https://aclanthology.org/2025.acl-long.1050/)  ✅
 - **TRIP**: "Target-constrained Bidirectional Planning for Generation of Target-oriented Proactive Dialogue". *ACM-transactions(2024)* [📄 paper](https://arxiv.org/abs/2403.06063) [💻 code](https://github.com/iwangjian/TRIP)  ✅
+- **HierTOD**: "HierTOD: A Task-Oriented Dialogue System Driven by Hierarchical Goals". *arXiv(2024)* [📄 paper](https://arxiv.org/abs/2411.07152)  📌 
 - **RTCP**: "Reinforced Target-driven Conversational Promotion". *EMNLP(2023)* [📄 paper](https://aclanthology.org/2023.emnlp-main.775/) [💻 code](https://github.com/huyquangdao/RTCP)  🔥 ✅
 - **COLOR**: "Dialogue Planning via Brownian Bridge Stochastic Process for Goal-directed Proactive Dialogue". *ACL-Findings(2023)* [📄 paper](https://aclanthology.org/2023.findings-acl.25/) [💻 code](https://github.com/iwangjian/Color4Dial)  ✅
 - **TPC-Dial**: "A Target-Driven Planning Approach for Goal-Directed Dialog Systems". *IEEE-transactions(2023)* [📄 paper](https://drive.google.com/file/d/1ecMbad40gBQqpa0TlaKXfIzs1v382l0D/view) [💻 code](https://github.com/iwangjian/TopDial)  ✅
@@ -31,7 +33,8 @@
 - **TGCP**: "Target-Guided Open-Domain Conversation Planning". *COLING(2022)* [📄 paper](https://arxiv.org/abs/2209.09746) [💻 code](https://github.com/y-kishinami/TGCP) 📌 
 - **FOP**: "Long-term Control for Dialogue Generation: Methods and Evaluation". *NAACL(2022)* [📄 paper](https://aclanthology.org/2022.naacl-main.54/) [💻 code](https://github.com/asappresearch/constrained-dialogue-generation) 📌 
 - **TopKG**: "TopKG: Target-oriented Dialog via Global Planning on Knowledge Graph". *COLING(2022)* [📄 paper](https://aclanthology.org/2022.coling-1.62/)  📌 
-- **CKC**: "Keyword-Guided Neural Conversational Model". *AAAI(2021)* [📄 paper](https://arxiv.org/abs/2012.08383) [💻 code](https://github.com/zhongpeixiang/CKC)  📌 
+- **CKC**: "Keyword-Guided Neural Conversational Model". *AAAI(2021)* [📄 paper](https://arxiv.org/abs/2012.08383) [💻 code](https://github.com/zhongpeixiang/CKC)  📌
+- **OTTers**: "OTTers: One-turn Topic Transitions for Open-Domain Dialogue". *ACL(2021)* [📄 paper](https://aclanthology.org/2021.acl-long.194/) [💻 code](https://github.com/karinseve/OTTers)  📌 
 - **TGConv**: "Target-Guided Open-Domain Conversation". *ACL(2019)* [📄 paper](https://aclanthology.org/P19-1565/) [💻 code](https://github.com/squareRoot3/Target-Guided-Conversation)  📌 
 
 
@@ -42,7 +45,7 @@
 - **DuRecDial2.0**: "DuRecDial 2.0: A Bilingual Parallel Corpus for Conversational Recommendation". *EMNLP(2021)* [📄 paper](https://aclanthology.org/2021.emnlp-main.356/) [💻 code](https://github.com/liuzeming01/DuRecDial)  📌
 - **Survey**: "A Survey on Conversational Recommender Systems". *ACM Computing Surveys(2021)* [📄 paper](https://arxiv.org/abs/2004.00646)  📌 
 - **Survey**: "Advances and Challenges in Conversational Recommender Systems: A Survey". *arXiv(2021)* [📄 paper](https://arxiv.org/abs/2101.09459)  📌 
-- **CRSLab**: "CRSLab: An Open-Source Toolkit for Building Conversational Recommender System". *IJCNLP(2021)* [📄 paper](https://aclanthology.org/2021.acl-demo.22/) [💻 code](https://github.com/RUCAIBox/CRSLab)  📌 
+- **CRSLab**: "CRSLab: An Open-Source Toolkit for Building Conversational Recommender System". *IJCNLP(2021)* [📄 paper](https://aclanthology.org/2021.acl-demo.22/) [💻 code](https://github.com/RUCAIBox/CRSLab)  📌
 - **INSPIRED**: "INSPIRED: Toward Sociable Recommendation Dialog Systems". *EMNLP(2020)* [📄 paper](https://aclanthology.org/2020.emnlp-main.654/) [💻 code](https://github.com/sweetpeach/Inspired)  📌 
 - **DuRecDial**: "Towards Conversational Recommendation over Multi-Type Dialogs". *ACL(2020)* [📄 paper](https://aclanthology.org/2020.acl-main.98/) [💻 code](https://github.com/PaddlePaddle/Research/tree/master/NLP/ACL2020-DuRecDial)  📌
 - **TG-ReDial**: "Towards Topic-Guided Conversational Recommender System". *COLING(2020)* [📄 paper](https://aclanthology.org/2020.coling-main.365/) [💻 code](https://github.com/RUCAIBox/TG-ReDial)  📌
