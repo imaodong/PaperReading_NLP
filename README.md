@@ -77,13 +77,19 @@
 - **MultiFactor**: "Improving Question Generation with Multi-level Content Planning". *EMNLP-Findings(2023)* [📄 paper](https://aclanthology.org/2023.findings-emnlp.57/) [💻 code](https://github.com/zeaver/MultiFactor)  ✅
 - **QA4QG**: "QA4QG: Using Question Answering to Constrain Multi-Hop Question Generation". *ICASSP(2022)* [📄 paper](https://arxiv.org/abs/2202.06538)  ✅
 - **CQG**: "CQG: A Simple and Effective Controlled Generation Framework for Multi-hop Question Generation". *ACL(2022)* [📄 paper](https://aclanthology.org/2022.acl-long.475/) [💻 code](https://github.com/sion-zcfei/CQG)  🔥 ✅
+- **Survey**: "A review on question generation from natural language text". *ACM TOIS(2021)* [📄 paper](https://dl.acm.org/doi/pdf/10.1145/3468889)  📌 
 - **MulQG**: "Multi-hop Question Generation with Graph Convolutional Network". *EMNLP-Findings(2020)* [📄 paper](https://aclanthology.org/2020.findings-emnlp.416/) [💻 code](https://github.com/HLTCHKUST/MulQG)  🔥 ✅
-
-
 
 
 ### 🔸 Single-hop Question Generation (Shallow Question Generation)
 - **QA&QG**: "Question Answering and Question Generation as Dual Tasks". *AAAI(2018)* [📄 paper](https://arxiv.org/abs/1706.02027)  ✅
+
+
+### 🔸 Knowledge Bases Question Generation
+- **LFKQG**: "LFKQG: A Controlled Generation Framework with Local Fine-tuning for Question Generation over Knowledge Bases". *COLING(2022)* [📄 paper](https://aclanthology.org/2022.coling-1.572.pdf) [💻 code](https://github.com/sion-zcfei/CQG)  📌 
+
+
+
 
 
 ### 🔸 Conversational Question Generation
