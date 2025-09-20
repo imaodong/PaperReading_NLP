@@ -17,15 +17,15 @@
 
 ## 🔹 Dialogue
 ### 🔸 Proactive Dialogue Survey
+- **Survey**: "Proactive Conversational AI: A Comprehensive Survey of Advancements and Opportunities". *ACM-Transactions(2025)* [📄 paper](https://dl.acm.org/doi/pdf/10.1145/3715097)  📌 
 - **Survey**: "A Survey on Proactive Dialogue Systems: Problems, Methods, and Prospects". *IJCAI(2023)* [📄 paper](https://arxiv.org/abs/2305.02750)  ✅
-- **Survey**: "Proactive Conversational AI: A Comprehensive Survey of Advancements and Opportunities". *ACM-Transactions(2025)* [📄 paper](https://dl.acm.org/doi/pdf/10.1145/3715097)  ✅
 
 
 ### 🔸 Goal-oriented (Target-oriented) Proactive Dialogue
 (Personal understanding: I think proactive dialogue is similar to a recommendation system (in dialogue) in some aspects, as they both involve guiding users to do something. If you have a better opinion, please let me know.)
 - **CRC**: "Enhancing Goal-oriented Proactive Dialogue Systems via Consistency Reflection and Correction". *ACL(2025)* [📄 paper](https://aclanthology.org/2025.acl-long.1050/)  ✅
 - **TRIP**: "Target-constrained Bidirectional Planning for Generation of Target-oriented Proactive Dialogue". *ACM-Transactions(2024)* [📄 paper](https://arxiv.org/abs/2403.06063) [💻 code](https://github.com/iwangjian/TRIP)  ✅
-- **HierTOD**: "HierTOD: A Task-Oriented Dialogue System Driven by Hierarchical Goals". *arXiv(2024)* [📄 paper](https://arxiv.org/abs/2411.07152)  📌 
+- **HierTOD**: "HierTOD: A Task-Oriented Dialogue System Driven by Hierarchical Goals". *arXiv(2024)* [📄 paper](https://arxiv.org/abs/2411.07152)  
 - **RTCP**: "Reinforced Target-driven Conversational Promotion". *EMNLP(2023)* [📄 paper](https://aclanthology.org/2023.emnlp-main.775/) [💻 code](https://github.com/huyquangdao/RTCP)  🔥 ✅
 - **COLOR**: "Dialogue Planning via Brownian Bridge Stochastic Process for Goal-directed Proactive Dialogue". *ACL-Findings(2023)* [📄 paper](https://aclanthology.org/2023.findings-acl.25/) [💻 code](https://github.com/iwangjian/Color4Dial)  ✅
 - **TPC-Dial**: "A Target-Driven Planning Approach for Goal-Directed Dialog Systems". *IEEE-Transactions(2023)* [📄 paper](https://drive.google.com/file/d/1ecMbad40gBQqpa0TlaKXfIzs1v382l0D/view) [💻 code](https://github.com/iwangjian/TopDial)  ✅
@@ -39,9 +39,9 @@
 
 
 ### 🔸 Conversational Recommendation System (Recommendation Dialogue)
-- **SCREEN**: "SCREEN: ABenchmark for Situated Conversational Recommendation". *MM(2024)* [📄 paper](https://dl.acm.org/doi/pdf/10.1145/3664647.3681651) [💻 code](https://github.com/DongdingLin/SCREEN)  📌 
-- **KERS**: "KERS: A Knowledge-Enhanced Framework for Recommendation Dialog Systems with Multiple Subgoals". *EMNLP-Findings(2021)* [📄 paper](https://aclanthology.org/2021.findings-emnlp.94/) [💻 code](https://github.com/z562/KERS)  📌 
-- **CR-Walker**: "CR-Walker: Tree-Structured Graph Reasoning and Dialog Acts for Conversational Recommendation". *EMNLP(2021)* [📄 paper](https://aclanthology.org/2021.emnlp-main.139/) [💻 code](https://github.com/truthless11/CR-Walker)  📌
+- **SCREEN**: "SCREEN: ABenchmark for Situated Conversational Recommendation". *MM(2024)* [📄 paper](https://dl.acm.org/doi/pdf/10.1145/3664647.3681651) [💻 code](https://github.com/DongdingLin/SCREEN)  🔥
+- **KERS**: "KERS: A Knowledge-Enhanced Framework for Recommendation Dialog Systems with Multiple Subgoals". *EMNLP-Findings(2021)* [📄 paper](https://aclanthology.org/2021.findings-emnlp.94/) [💻 code](https://github.com/z562/KERS)  🔥 
+- **CR-Walker**: "CR-Walker: Tree-Structured Graph Reasoning and Dialog Acts for Conversational Recommendation". *EMNLP(2021)* [📄 paper](https://aclanthology.org/2021.emnlp-main.139/) [💻 code](https://github.com/truthless11/CR-Walker)  🔥 
 - **DuRecDial2.0**: "DuRecDial 2.0: A Bilingual Parallel Corpus for Conversational Recommendation". *EMNLP(2021)* [📄 paper](https://aclanthology.org/2021.emnlp-main.356/) [💻 code](https://github.com/liuzeming01/DuRecDial)  📌
 - **Survey**: "A Survey on Conversational Recommender Systems". *ACM Computing Surveys(2021)* [📄 paper](https://arxiv.org/abs/2004.00646)  📌 
 - **Survey**: "Advances and Challenges in Conversational Recommender Systems: A Survey". *arXiv(2021)* [📄 paper](https://arxiv.org/abs/2101.09459)  📌 
@@ -49,6 +49,7 @@
 - **INSPIRED**: "INSPIRED: Toward Sociable Recommendation Dialog Systems". *EMNLP(2020)* [📄 paper](https://aclanthology.org/2020.emnlp-main.654/) [💻 code](https://github.com/sweetpeach/Inspired)  📌 
 - **DuRecDial**: "Towards Conversational Recommendation over Multi-Type Dialogs". *ACL(2020)* [📄 paper](https://aclanthology.org/2020.acl-main.98/) [💻 code](https://github.com/PaddlePaddle/Research/tree/master/NLP/ACL2020-DuRecDial)  📌
 - **TG-ReDial**: "Towards Topic-Guided Conversational Recommender System". *COLING(2020)* [📄 paper](https://aclanthology.org/2020.coling-main.365/) [💻 code](https://github.com/RUCAIBox/TG-ReDial)  📌
+- **KBRD**: "Towards Knowledge-Based Recommender Dialog System". *EMNLP(2019)* [📄 paper](https://aclanthology.org/D19-1189.pdf) [💻 code](https://github.com/THUDM/KBRD)  📌
 - **ReDial**: "Towards Deep Conversational Recommendations". *NeurIPS(2018)* [📄 paper](https://proceedings.neurips.cc/paper/2018/hash/800de15c79c8d840f4e78d3af937d4d4-Abstract.html) [💻 code](https://github.com/ReDialData/website)  📌
 
 
