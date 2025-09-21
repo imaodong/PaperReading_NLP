@@ -33,9 +33,9 @@
 - **TGCP**: "Target-Guided Open-Domain Conversation Planning". *COLING(2022)* [📄 paper](https://arxiv.org/abs/2209.09746) [💻 code](https://github.com/y-kishinami/TGCP) 📌 
 - **FOP**: "Long-term Control for Dialogue Generation: Methods and Evaluation". *NAACL(2022)* [📄 paper](https://aclanthology.org/2022.naacl-main.54/) [💻 code](https://github.com/asappresearch/constrained-dialogue-generation) 📌 
 - **TopKG**: "TopKG: Target-oriented Dialog via Global Planning on Knowledge Graph". *COLING(2022)* [📄 paper](https://aclanthology.org/2022.coling-1.62/)  📌 
-- **CKC**: "Keyword-Guided Neural Conversational Model". *AAAI(2021)* [📄 paper](https://arxiv.org/abs/2012.08383) [💻 code](https://github.com/zhongpeixiang/CKC)  📌
-- **OTTers**: "OTTers: One-turn Topic Transitions for Open-Domain Dialogue". *ACL(2021)* [📄 paper](https://aclanthology.org/2021.acl-long.194/) [💻 code](https://github.com/karinseve/OTTers)  📌 
-- **TGConv**: "Target-Guided Open-Domain Conversation". *ACL(2019)* [📄 paper](https://aclanthology.org/P19-1565/) [💻 code](https://github.com/squareRoot3/Target-Guided-Conversation)  📌 
+- **CKC**: "Keyword-Guided Neural Conversational Model". *AAAI(2021)* [📄 paper](https://arxiv.org/abs/2012.08383) [💻 code](https://github.com/zhongpeixiang/CKC)  ✅
+- **OTTers**: "OTTers: One-turn Topic Transitions for Open-Domain Dialogue". *ACL(2021)* [📄 paper](https://aclanthology.org/2021.acl-long.194/) [💻 code](https://github.com/karinseve/OTTers)  ✅
+- **TGConv**: "Target-Guided Open-Domain Conversation". *ACL(2019)* [📄 paper](https://aclanthology.org/P19-1565/) [💻 code](https://github.com/squareRoot3/Target-Guided-Conversation)  ✅
 
 
 ### 🔸 Conversational Recommendation System (Recommendation Dialogue)
