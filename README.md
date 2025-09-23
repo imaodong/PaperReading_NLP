@@ -96,4 +96,10 @@
 - **From Superficial to Deep**: "From Superficial to Deep: Integrating External Knowledge for Follow-up Question Generation Using Knowledge Graph and LLM
 ". *COLING(2025)* [📄 paper](https://aclanthology.org/2025.coling-main.55/)  📌 
 - **ZeroCQG**: "Synthesize, Prompt and Transfer: Zero-shot Conversational Question Generation with Pre-trained Language Model". *ACL(2023)* [📄 paper](https://aclanthology.org/2023.acl-long.500/) [💻 code](https://github.com/hongweizeng/ZeroCQG)  📌
-- **FOLLOWUPQG**: "FOLLOWUPQG: Towards Information-Seeking Follow-up Question Generation". *IJCNLP(2023)* [📄 paper](https://aclanthology.org/2023.ijcnlp-main.17/) [💻 code](https://github.com/vivian-my/FollowupQG)  📌 
+- **FOLLOWUPQG**: "FOLLOWUPQG: Towards Information-Seeking Follow-up Question Generation". *IJCNLP(2023)* [📄 paper](https://aclanthology.org/2023.ijcnlp-main.17/) [💻 code](https://github.com/vivian-my/FollowupQG)  📌
+
+
+## 🔹 Intent Classification and Slot Filling
+- **GL-GIN**: "GL-GIN: Fast and Accurate Non-Autoregressive Model for Joint Multiple Intent Detection and Slot Filling". *ACL-IJCNLP(2021)* [📄 paper](https://aclanthology.org/2021.acl-long.15/) [💻 code](https://github.com/yizhen20133868/GL-GIN)  📌
+- **AGIF**: "AGIF: An Adaptive Graph-Interactive Framework for Joint Multiple Intent Detection and Slot Filling". *EMNLP-Findings(2020)* [📄 paper](https://aclanthology.org/2020.findings-emnlp.163/) [💻 code](https://github.com/LooperXX/AGIF)  📌
+
