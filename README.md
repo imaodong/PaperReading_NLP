@@ -25,7 +25,7 @@
 (Personal understanding: I think proactive dialogue is similar to a recommendation system (in dialogue) in some aspects, as they both involve guiding users to do something. If you have a better opinion, please let me know.)
 - **CRC**: "Enhancing Goal-oriented Proactive Dialogue Systems via Consistency Reflection and Correction". *ACL(2025)* [📄 paper](https://aclanthology.org/2025.acl-long.1050/)  ✅
 - **TRIP**: "Target-constrained Bidirectional Planning for Generation of Target-oriented Proactive Dialogue". *ACM-Transactions(2024)* [📄 paper](https://arxiv.org/abs/2403.06063) [💻 code](https://github.com/iwangjian/TRIP)  ✅
-- **HierTOD**: "HierTOD: A Task-Oriented Dialogue System Driven by Hierarchical Goals". *arXiv(2024)* [📄 paper](https://arxiv.org/abs/2411.07152)  
+- **HierTOD**: "HierTOD: A Task-Oriented Dialogue System Driven by Hierarchical Goals". *arXiv(2024)* [📄 paper](https://arxiv.org/abs/2411.07152)  📌 
 - **RTCP**: "Reinforced Target-driven Conversational Promotion". *EMNLP(2023)* [📄 paper](https://aclanthology.org/2023.emnlp-main.775/) [💻 code](https://github.com/huyquangdao/RTCP)  🔥 ✅
 - **COLOR**: "Dialogue Planning via Brownian Bridge Stochastic Process for Goal-directed Proactive Dialogue". *ACL-Findings(2023)* [📄 paper](https://aclanthology.org/2023.findings-acl.25/) [💻 code](https://github.com/iwangjian/Color4Dial)  ✅
 - **TPC-Dial**: "A Target-Driven Planning Approach for Goal-Directed Dialog Systems". *IEEE-Transactions(2023)* [📄 paper](https://drive.google.com/file/d/1ecMbad40gBQqpa0TlaKXfIzs1v382l0D/view) [💻 code](https://github.com/iwangjian/TopDial)  ✅
@@ -40,8 +40,8 @@
 
 ### 🔸 Conversational Recommendation System (Recommendation Dialogue)
 - **SCREEN**: "SCREEN: ABenchmark for Situated Conversational Recommendation". *MM(2024)* [📄 paper](https://dl.acm.org/doi/pdf/10.1145/3664647.3681651) [💻 code](https://github.com/DongdingLin/SCREEN)  🔥
-- **KERS**: "KERS: A Knowledge-Enhanced Framework for Recommendation Dialog Systems with Multiple Subgoals". *EMNLP-Findings(2021)* [📄 paper](https://aclanthology.org/2021.findings-emnlp.94/) [💻 code](https://github.com/z562/KERS)  🔥 
-- **CR-Walker**: "CR-Walker: Tree-Structured Graph Reasoning and Dialog Acts for Conversational Recommendation". *EMNLP(2021)* [📄 paper](https://aclanthology.org/2021.emnlp-main.139/) [💻 code](https://github.com/truthless11/CR-Walker)  🔥 
+- **KERS**: "KERS: A Knowledge-Enhanced Framework for Recommendation Dialog Systems with Multiple Subgoals". *EMNLP-Findings(2021)* [📄 paper](https://aclanthology.org/2021.findings-emnlp.94/) [💻 code](https://github.com/z562/KERS)  ✅
+- **CR-Walker**: "CR-Walker: Tree-Structured Graph Reasoning and Dialog Acts for Conversational Recommendation". *EMNLP(2021)* [📄 paper](https://aclanthology.org/2021.emnlp-main.139/) [💻 code](https://github.com/truthless11/CR-Walker)  ✅
 - **DuRecDial2.0**: "DuRecDial 2.0: A Bilingual Parallel Corpus for Conversational Recommendation". *EMNLP(2021)* [📄 paper](https://aclanthology.org/2021.emnlp-main.356/) [💻 code](https://github.com/liuzeming01/DuRecDial)  📌
 - **Survey**: "A Survey on Conversational Recommender Systems". *ACM Computing Surveys(2021)* [📄 paper](https://arxiv.org/abs/2004.00646)  📌 
 - **Survey**: "Advances and Challenges in Conversational Recommender Systems: A Survey". *arXiv(2021)* [📄 paper](https://arxiv.org/abs/2101.09459)  📌 
@@ -49,13 +49,14 @@
 - **INSPIRED**: "INSPIRED: Toward Sociable Recommendation Dialog Systems". *EMNLP(2020)* [📄 paper](https://aclanthology.org/2020.emnlp-main.654/) [💻 code](https://github.com/sweetpeach/Inspired)  📌 
 - **DuRecDial**: "Towards Conversational Recommendation over Multi-Type Dialogs". *ACL(2020)* [📄 paper](https://aclanthology.org/2020.acl-main.98/) [💻 code](https://github.com/PaddlePaddle/Research/tree/master/NLP/ACL2020-DuRecDial)  📌
 - **TG-ReDial**: "Towards Topic-Guided Conversational Recommender System". *COLING(2020)* [📄 paper](https://aclanthology.org/2020.coling-main.365/) [💻 code](https://github.com/RUCAIBox/TG-ReDial)  📌
-- **KBRD**: "Towards Knowledge-Based Recommender Dialog System". *EMNLP(2019)* [📄 paper](https://aclanthology.org/D19-1189.pdf) [💻 code](https://github.com/THUDM/KBRD)  📌
+- **KGSF**: "Improving Conversational Recommender Systems via Knowledge Graph based Semantic Fusion". *KDD(2020)* [📄 paper](https://arxiv.org/pdf/2007.04032) [💻 code](https://github.com/RUCAIBox/KGSF)  📌
+- **KBRD**: "Towards Knowledge-Based Recommender Dialog System". *EMNLP(2019)* [📄 paper](https://aclanthology.org/D19-1189.pdf) [💻 code](https://github.com/THUDM/KBRD)  ✅
 - **ReDial**: "Towards Deep Conversational Recommendations". *NeurIPS(2018)* [📄 paper](https://proceedings.neurips.cc/paper/2018/hash/800de15c79c8d840f4e78d3af937d4d4-Abstract.html) [💻 code](https://github.com/ReDialData/website)  📌
 
 
 
 ### 🔸 Emotional Dialogue (Emotional Support Dialogue & Empathetic Dialogue)
-- **DKPE**: "Enhancing Emotional Support Conversations: A Framework for Dynamic Knowledge Filtering and Persona Extraction". *COLING(2025)* [📄 paper](https://aclanthology.org/2025.coling-main.214/) [💻 code](https://github.com/Jwhao1999/DKPE)  📌
+- **DKPE**: "Enhancing Emotional Support Conversations: A Framework for Dynamic Knowledge Filtering and Persona Extraction". *COLING(2025)* [📄 paper](https://aclanthology.org/2025.coling-main.214/) [💻 code](https://github.com/Jwhao1999/DKPE)  ✅
 - **KEMI**: "Knowledge-enhanced Mixed-initiative Dialogue System for Emotional Support Conversations". *ACL(2023)* [📄 paper](https://aclanthology.org/2023.acl-long.225/) [💻 code](https://github.com/dengyang17/KEMI)  📌
 - **MultiESC**: "Improving Multi-turn Emotional Support Dialogue Generation with Lookahead Strategy Planning". *EMNLP(2022)* [📄 paper](https://aclanthology.org/2022.emnlp-main.195/) [💻 code](https://github.com/lwgkzl/MultiESC)  📌
 - **ESConv**: "Towards Emotional Support Dialog Systems". *ACL(2021)* [📄 paper](https://aclanthology.org/2021.acl-long.269/) [💻 code](https://github.com/thu-coai/Emotional-Support-Conversation)  📌 
@@ -100,6 +101,6 @@
 
 
 ## 🔹 Intent Classification and Slot Filling
-- **GL-GIN**: "GL-GIN: Fast and Accurate Non-Autoregressive Model for Joint Multiple Intent Detection and Slot Filling". *ACL-IJCNLP(2021)* [📄 paper](https://aclanthology.org/2021.acl-long.15/) [💻 code](https://github.com/yizhen20133868/GL-GIN)  📌
-- **AGIF**: "AGIF: An Adaptive Graph-Interactive Framework for Joint Multiple Intent Detection and Slot Filling". *EMNLP-Findings(2020)* [📄 paper](https://aclanthology.org/2020.findings-emnlp.163/) [💻 code](https://github.com/LooperXX/AGIF)  📌
+- **GL-GIN**: "GL-GIN: Fast and Accurate Non-Autoregressive Model for Joint Multiple Intent Detection and Slot Filling". *ACL-IJCNLP(2021)* [📄 paper](https://aclanthology.org/2021.acl-long.15/) [💻 code](https://github.com/yizhen20133868/GL-GIN)  ✅
+- **AGIF**: "AGIF: An Adaptive Graph-Interactive Framework for Joint Multiple Intent Detection and Slot Filling". *EMNLP-Findings(2020)* [📄 paper](https://aclanthology.org/2020.findings-emnlp.163/) [💻 code](https://github.com/LooperXX/AGIF)  ✅
 
