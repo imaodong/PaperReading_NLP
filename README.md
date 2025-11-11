@@ -17,6 +17,7 @@
 
 ## 🔹 Dialogue
 ### 🔸 Proactive Dialogue Survey
+- **MapDia**: "Interpersonal Memory Matters: A New Task for Proactive Dialogue Utilizing Conversational History". *CoNLL(2025)* [📄 paper](https://aclanthology.org/2025.conll-1.4/) [💻 code](https://github.com/FrontierLabs/MapDia) 📌 
 - **Survey**: "Proactive Conversational AI: A Comprehensive Survey of Advancements and Opportunities". *ACM-Transactions(2025)* [📄 paper](https://dl.acm.org/doi/pdf/10.1145/3715097)  📌 
 - **Survey**: "A Survey on Proactive Dialogue Systems: Problems, Methods, and Prospects". *IJCAI(2023)* [📄 paper](https://arxiv.org/abs/2305.02750)  ✅
 
