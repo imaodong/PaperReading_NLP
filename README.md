@@ -17,7 +17,6 @@
 
 ## 🔹 Dialogue
 ### 🔸 Proactive Dialogue Survey
-- **MapDia**: "Interpersonal Memory Matters: A New Task for Proactive Dialogue Utilizing Conversational History". *CoNLL(2025)* [📄 paper](https://aclanthology.org/2025.conll-1.4/) [💻 code](https://github.com/FrontierLabs/MapDia) 📌 
 - **Survey**: "Proactive Conversational AI: A Comprehensive Survey of Advancements and Opportunities". *ACM-Transactions(2025)* [📄 paper](https://dl.acm.org/doi/pdf/10.1145/3715097)  📌 
 - **Survey**: "A Survey on Proactive Dialogue Systems: Problems, Methods, and Prospects". *IJCAI(2023)* [📄 paper](https://arxiv.org/abs/2305.02750)  ✅
 
@@ -66,8 +65,12 @@
 - **ESConv**: "Towards Emotional Support Dialog Systems". *ACL(2021)* [📄 paper](https://aclanthology.org/2021.acl-long.269/) [💻 code](https://github.com/thu-coai/Emotional-Support-Conversation)  📌 
 - **EmpatheticDialogues**: "Towards Empathetic Open-domain Conversation Models: A New Benchmark and Dataset". *ACL(2019)* [📄 paper](https://aclanthology.org/P19-1534/) [💻 code](https://github.com/facebookresearch/EmpatheticDialogues)  📌 
 
+### 🔸  Proactive Medical Dialogue
+- **EMULATION**: "Reasoning Like a Doctor: Improving Medical Dialogue Systems via Diagnostic Reasoning Process Alignment". *ACL-Findings(2024)* [📄 paper](https://aclanthology.org/2024.findings-acl.406/) [💻 code](https://github.com/kaishxu/Emulation) 📌 
+
 
 ### 🔸 Misc. of Proactive Dialogue
+- **MapDia**: "Interpersonal Memory Matters: A New Task for Proactive Dialogue Utilizing Conversational History". *CoNLL(2025)* [📄 paper](https://aclanthology.org/2025.conll-1.4/) [💻 code](https://github.com/FrontierLabs/MapDia) 📌 
 - **DPDP**: "Planning Like Human: A Dual-process Framework for Dialogue Planning". *ACL(2024)* [📄 paper](https://aclanthology.org/2024.acl-long.262/) [💻 code](https://github.com/cs-holder/DPDP)  ✅
 - **PPDPP**: "Plug-and-Play Policy Planner for Large Language Model Powered Dialogue Agents". *ICLR(2024)* [📄 paper](https://arxiv.org/abs/2311.00262) [💻 code](https://github.com/dengyang17/PPDPP)  ✅
 - **ProCoT**: "Prompting and Evaluating Large Language Models for Proactive Dialogues: Clarification, Target-guided, and Non-collaboration". *EMNLP-Findings(2023)* [📄 paper](https://aclanthology.org/2023.findings-emnlp.711/) [💻 code](https://github.com/dengyang17/LLM-Proactive)  📌 
