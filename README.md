@@ -71,6 +71,7 @@
 
 
 ### 🔸 Misc. of Proactive Dialogue
+- **KAPA**: "KAPA: A Deliberative Agent Framework with Tree-Structured Knowledge Base for Multi-Domain User Intent Understanding". *ACL-Findings(2025)* [📄 paper](https://aclanthology.org/2025.findings-acl.319/) 📌 
 - **MapDia**: "Interpersonal Memory Matters: A New Task for Proactive Dialogue Utilizing Conversational History". *CoNLL(2025)* [📄 paper](https://aclanthology.org/2025.conll-1.4/) [💻 code](https://github.com/FrontierLabs/MapDia) 📌 
 - **DPDP**: "Planning Like Human: A Dual-process Framework for Dialogue Planning". *ACL(2024)* [📄 paper](https://aclanthology.org/2024.acl-long.262/) [💻 code](https://github.com/cs-holder/DPDP)  ✅
 - **PPDPP**: "Plug-and-Play Policy Planner for Large Language Model Powered Dialogue Agents". *ICLR(2024)* [📄 paper](https://arxiv.org/abs/2311.00262) [💻 code](https://github.com/dengyang17/PPDPP)  ✅
