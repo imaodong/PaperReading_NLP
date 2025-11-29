@@ -23,6 +23,7 @@
 
 ### 🔸 Goal-oriented (Target-oriented) Proactive Dialogue
 (Personal understanding: I think proactive dialogue is similar to a recommendation system (in dialogue) in some aspects, as they both involve guiding users to do something. If you have a better opinion, please let me know.)
+- **MemGuide**: "MemGuide: Intent-Driven Memory Selection for Goal-Oriented Multi-Session LLM Agents". *arXiv(2025)* [📄 paper](https://arxiv.org/abs/2505.20231)
 - **CRC**: "Enhancing Goal-oriented Proactive Dialogue Systems via Consistency Reflection and Correction". *ACL(2025)* [📄 paper](https://aclanthology.org/2025.acl-long.1050/)  ✅
 - **TRIP**: "Target-constrained Bidirectional Planning for Generation of Target-oriented Proactive Dialogue". *ACM-Transactions(2024)* [📄 paper](https://arxiv.org/abs/2403.06063) [💻 code](https://github.com/iwangjian/TRIP)  ✅
 - **HierTOD**: "HierTOD: A Task-Oriented Dialogue System Driven by Hierarchical Goals". *arXiv(2024)* [📄 paper](https://arxiv.org/abs/2411.07152)  📌
