@@ -9,6 +9,7 @@
 
 
 ## 🔹 LLM Agents (LLM-based Dialogue Agents)
+- **DynToM**: "Towards Dynamic Theory of Mind: Evaluating LLM Adaptation to Temporal Evolution of Human States". *ACL(2025)* [📄 paper](https://aclanthology.org/2025.acl-long.1171/) [💻 code](https://github.com/GAIR-NLP/DynToM)  📌
 - **Tell Me More**: "Tell Me More! Towards Implicit User Intention Understanding of Language Model Driven Agents". *ACL(2024)* [📄 paper](https://aclanthology.org/2024.acl-long.61/) [💻 code](https://github.com/thunlp/Tell_Me_More)  📌
 - **ChatSOP**: "ChatSOP: An SOP-Guided MCTS Planning Framework for Controllable LLM Dialogue Agents". *ICLR(2024)* [📄 paper](https://aclanthology.org/2025.acl-long.863/) [💻 code](https://github.com/tjunlp-lab/ChatSOP)  📌
 - **DialOp**: "Decision-Oriented Dialogue for Human-AI Collaboration". *TACL(2024)* [📄 paper](https://arxiv.org/abs/2305.20076) [💻 code](https://github.com/jlin816/dialop)  📌 
@@ -74,6 +75,7 @@
 
 
 ### 🔸 Misc. of Proactive Dialogue
+- **STAMPsy**: "STAMPsy: Towards SpatioTemporal-Aware Mixed-Type Dialogues for Psychological Counseling". *AAAI(2025)* [📄 paper](https://ojs.aaai.org/index.php/AAAI/article/view/34725) [💻 code](https://github.com/JOY-SWang/STAMPsy) 📌 
 - **KAPA**: "KAPA: A Deliberative Agent Framework with Tree-Structured Knowledge Base for Multi-Domain User Intent Understanding". *ACL-Findings(2025)* [📄 paper](https://aclanthology.org/2025.findings-acl.319/) 📌 
 - **MapDia**: "Interpersonal Memory Matters: A New Task for Proactive Dialogue Utilizing Conversational History". *CoNLL(2025)* [📄 paper](https://aclanthology.org/2025.conll-1.4/) [💻 code](https://github.com/FrontierLabs/MapDia) 📌 
 - **DPDP**: "Planning Like Human: A Dual-process Framework for Dialogue Planning". *ACL(2024)* [📄 paper](https://aclanthology.org/2024.acl-long.262/) [💻 code](https://github.com/cs-holder/DPDP)  ✅
@@ -83,6 +85,7 @@
 
 ## 🔹 Question Generation
 ### 🔸 Multi-hop Question Generation (Deep Question Generation)
+- **RUBY**: "RUBY: An Effective Framework for Multi-Constraint Multi-Hop Question Generation". *ACL(2025)* [📄 paper](https://aclanthology.org/2025.acl-long.889/) [💻 code](https://github.com/zwz4949/MCHQG-RUBY)  📌 
 - **DPKG**: "Multi-Hop Question Generation via Dual-Perspective Keyword Guidance". *ACL-Findings(2025)* [📄 paper](https://aclanthology.org/2025.findings-acl.526/) [💻 code](https://github.com/imaodong/DPKG)  🔥 ✅
 - **SGCM**: "SGCM: Salience-Guided Context Modeling for Question Generation". *COLING(2025)* [📄 paper](https://aclanthology.org/2024.lrec-main.1285/)  ✅
 - **SEASON**: "Salience Allocation as Guidance for Abstractive Summarization". *EMNLP(2022)* [📄 paper](https://aclanthology.org/2022.emnlp-main.409/) [💻 code](https://github.com/tencent-ailab/season) ✅
