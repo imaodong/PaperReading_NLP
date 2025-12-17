@@ -9,6 +9,7 @@
 
 
 ## 🔹 LLM Agents (LLM-based Dialogue Agents)
+- **Tell Me More**: "Tell Me More! Towards Implicit User Intention Understanding of Language Model Driven Agents". *ACL(2024)* [📄 paper](https://aclanthology.org/2024.acl-long.61/) [💻 code](https://github.com/thunlp/Tell_Me_More)  📌
 - **ChatSOP**: "ChatSOP: An SOP-Guided MCTS Planning Framework for Controllable LLM Dialogue Agents". *ICLR(2024)* [📄 paper](https://aclanthology.org/2025.acl-long.863/) [💻 code](https://github.com/tjunlp-lab/ChatSOP)  📌
 - **DialOp**: "Decision-Oriented Dialogue for Human-AI Collaboration". *TACL(2024)* [📄 paper](https://arxiv.org/abs/2305.20076) [💻 code](https://github.com/jlin816/dialop)  📌 
 - **EduChat**: "A Large-Scale Language Model-based Chatbot System for Intelligent Education". *arXiv(2023)* [📄 paper](https://arxiv.org/abs/2308.02773) [💻 code](https://github.com/ECNU-ICALK/EduChat)  📌 
