@@ -85,6 +85,7 @@
 
 ## 🔹 Question Generation
 ### 🔸 Multi-hop Question Generation (Deep Question Generation)
+- **BMGQ**: "BMGQ: A Bottom-up Method for Generating Complex Multi-hop Reasoning Questions from Semi-structured Data". *arXiv(2025)* [📄 paper](https://arxiv.org/abs/2510.24151) 📌 
 - **RUBY**: "RUBY: An Effective Framework for Multi-Constraint Multi-Hop Question Generation". *ACL(2025)* [📄 paper](https://aclanthology.org/2025.acl-long.889/) [💻 code](https://github.com/zwz4949/MCHQG-RUBY)  📌 
 - **DPKG**: "Multi-Hop Question Generation via Dual-Perspective Keyword Guidance". *ACL-Findings(2025)* [📄 paper](https://aclanthology.org/2025.findings-acl.526/) [💻 code](https://github.com/imaodong/DPKG)  🔥 ✅
 - **SGCM**: "SGCM: Salience-Guided Context Modeling for Question Generation". *COLING(2025)* [📄 paper](https://aclanthology.org/2024.lrec-main.1285/)  ✅
