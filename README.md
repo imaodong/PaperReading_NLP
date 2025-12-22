@@ -77,7 +77,7 @@
 ### 🔸 Misc. of Proactive Dialogue
 - **STAMPsy**: "STAMPsy: Towards SpatioTemporal-Aware Mixed-Type Dialogues for Psychological Counseling". *AAAI(2025)* [📄 paper](https://ojs.aaai.org/index.php/AAAI/article/view/34725) [💻 code](https://github.com/JOY-SWang/STAMPsy) 📌 
 - **KAPA**: "KAPA: A Deliberative Agent Framework with Tree-Structured Knowledge Base for Multi-Domain User Intent Understanding". *ACL-Findings(2025)* [📄 paper](https://aclanthology.org/2025.findings-acl.319/) 📌 
-- **MapDia**: "Interpersonal Memory Matters: A New Task for Proactive Dialogue Utilizing Conversational History". *CoNLL(2025)* [📄 paper](https://aclanthology.org/2025.conll-1.4/) [💻 code](https://github.com/FrontierLabs/MapDia) 📌 
+- **MapDia**: "Interpersonal Memory Matters: A New Task for Proactive Dialogue Utilizing Conversational History". *CoNLL(2025)* [📄 paper](https://aclanthology.org/2025.conll-1.4/) [💻 code](https://github.com/FrontierLabs/MapDia) ✅
 - **DPDP**: "Planning Like Human: A Dual-process Framework for Dialogue Planning". *ACL(2024)* [📄 paper](https://aclanthology.org/2024.acl-long.262/) [💻 code](https://github.com/cs-holder/DPDP)  ✅
 - **PPDPP**: "Plug-and-Play Policy Planner for Large Language Model Powered Dialogue Agents". *ICLR(2024)* [📄 paper](https://arxiv.org/abs/2311.00262) [💻 code](https://github.com/dengyang17/PPDPP)  ✅
 - **ProCoT**: "Prompting and Evaluating Large Language Models for Proactive Dialogues: Clarification, Target-guided, and Non-collaboration". *EMNLP-Findings(2023)* [📄 paper](https://aclanthology.org/2023.findings-emnlp.711/) [💻 code](https://github.com/dengyang17/LLM-Proactive)  📌 
@@ -105,7 +105,7 @@
 
 
 ### 🔸 Knowledge Bases Question Generation
-- **LFKQG**: "LFKQG: A Controlled Generation Framework with Local Fine-tuning for Question Generation over Knowledge Bases". *COLING(2022)* [📄 paper](https://aclanthology.org/2022.coling-1.572.pdf) [💻 code](https://github.com/sion-zcfei/CQG)  📌 
+- **LFKQG**: "LFKQG: A Controlled Generation Framework with Local Fine-tuning for Question Generation over Knowledge Bases". *COLING(2022)* [📄 paper](https://aclanthology.org/2022.coling-1.572.pdf) [💻 code](https://github.com/sion-zcfei/CQG)  ✅
 
 
 
