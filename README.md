@@ -10,7 +10,7 @@
 
 ## 🔹 LLM Agents (LLM-based Dialogue Agents)
 - **DynToM**: "Towards Dynamic Theory of Mind: Evaluating LLM Adaptation to Temporal Evolution of Human States". *ACL(2025)* [📄 paper](https://aclanthology.org/2025.acl-long.1171/) [💻 code](https://github.com/GAIR-NLP/DynToM)  📌
-- **Tell Me More**: "Tell Me More! Towards Implicit User Intention Understanding of Language Model Driven Agents". *ACL(2024)* [📄 paper](https://aclanthology.org/2024.acl-long.61/) [💻 code](https://github.com/thunlp/Tell_Me_More)  📌
+- **Tell Me More**: "Tell Me More! Towards Implicit User Intention Understanding of Language Model Driven Agents". *ACL(2024)* [📄 paper](https://aclanthology.org/2024.acl-long.61/) [💻 code](https://github.com/thunlp/Tell_Me_More)  ✅
 - **ChatSOP**: "ChatSOP: An SOP-Guided MCTS Planning Framework for Controllable LLM Dialogue Agents". *ICLR(2024)* [📄 paper](https://aclanthology.org/2025.acl-long.863/) [💻 code](https://github.com/tjunlp-lab/ChatSOP)  📌
 - **DialOp**: "Decision-Oriented Dialogue for Human-AI Collaboration". *TACL(2024)* [📄 paper](https://arxiv.org/abs/2305.20076) [💻 code](https://github.com/jlin816/dialop)  📌 
 - **EduChat**: "A Large-Scale Language Model-based Chatbot System for Intelligent Education". *arXiv(2023)* [📄 paper](https://arxiv.org/abs/2308.02773) [💻 code](https://github.com/ECNU-ICALK/EduChat)  📌
@@ -44,8 +44,8 @@
 
 
 ### 🔸 Conversational Recommendation System (Recommendation Dialogue)
-- **ChatCRS**: "ChatCRS: Incorporating External Knowledge and Goal Guidance for LLM-based Conversational Recommender Systems". *NAACL-Findings(2025)* [📄 paper](https://aclanthology.org/2025.findings-naacl.17/) [💻 code](https://github.com/lichuangnus/ChatCRS)  📌
-- **EPL**: "Experience as Source for Anticipation and Planning: Experiential Policy Learning for Target-driven Recommendation Dialogues". *EMNLP-Findings(2024)* [📄 paper](https://aclanthology.org/2024.findings-emnlp.829/) [💻 code](https://github.com/huyquangdao/EPL)  📌
+- **ChatCRS**: "ChatCRS: Incorporating External Knowledge and Goal Guidance for LLM-based Conversational Recommender Systems". *NAACL-Findings(2025)* [📄 paper](https://aclanthology.org/2025.findings-naacl.17/) [💻 code](https://github.com/lichuangnus/ChatCRS)  ✅
+- **EPL**: "Experience as Source for Anticipation and Planning: Experiential Policy Learning for Target-driven Recommendation Dialogues". *EMNLP-Findings(2024)* [📄 paper](https://aclanthology.org/2024.findings-emnlp.829/) [💻 code](https://github.com/huyquangdao/EPL)  ✅
 - **GIGF**: "A Goal Interaction Graph Planning Framework for Conversational Recommendation". *AAAI(2024)* [📄 paper](https://ojs.aaai.org/index.php/AAAI/article/view/29930) [💻 code](https://github.com/xfjdlut/GIGF)  📌
 - **SCREEN**: "SCREEN: ABenchmark for Situated Conversational Recommendation". *MM(2024)* [📄 paper](https://dl.acm.org/doi/pdf/10.1145/3664647.3681651) [💻 code](https://github.com/DongdingLin/SCREEN)  🔥
 - **KERS**: "KERS: A Knowledge-Enhanced Framework for Recommendation Dialog Systems with Multiple Subgoals". *EMNLP-Findings(2021)* [📄 paper](https://aclanthology.org/2021.findings-emnlp.94/) [💻 code](https://github.com/z562/KERS)  ✅
