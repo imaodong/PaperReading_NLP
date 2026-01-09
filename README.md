@@ -7,6 +7,10 @@
 - **ELMo**: "Deep contextualized word representations". *NAACL(2018)* [📄 paper](https://aclanthology.org/N18-1202/) [💻 code](https://github.com/allenai/bilm-tf) 🔥
 - **Transformer**: "Attention is All you Need". *NeurIPS(2017)* [📄 paper](https://arxiv.org/abs/1706.03762)  🔥
 
+### 🔸Controlled Generation
+- **PPLM**: "Plug and Play Language Models: A Simple Approach to Controlled Text Generation". *ICLR(2020)* [📄 paper](https://arxiv.org/abs/1912.02164) [💻 code](https://github.com/uber-research/PPLM) 🔥
+- **CTRL**: "CTRL: A CONDITIONAL TRANSFORMER LANGUAGE MODEL FOR CONTROLLABLE GENERATION". *arXiv(2019)* [📄 paper](https://arxiv.org/abs/1909.05858) [💻 code](https://github.com/salesforce/ctrl) 🔥
+
 
 ## 🔹 LLM Agents (LLM-based Dialogue Agents)
 - **LD-Agent**: "Hello Again! LLM-powered Personalized Agent for Long-term Dialogue". *NAACL(2025)* [📄 paper](https://aclanthology.org/2025.naacl-long.272/) [💻 code](https://github.com/leolee99/LD-Agent)  📌
@@ -49,6 +53,7 @@
 - **EPL**: "Experience as Source for Anticipation and Planning: Experiential Policy Learning for Target-driven Recommendation Dialogues". *EMNLP-Findings(2024)* [📄 paper](https://aclanthology.org/2024.findings-emnlp.829/) [💻 code](https://github.com/huyquangdao/EPL)  ✅
 - **GIGF**: "A Goal Interaction Graph Planning Framework for Conversational Recommendation". *AAAI(2024)* [📄 paper](https://ojs.aaai.org/index.php/AAAI/article/view/29930) [💻 code](https://github.com/xfjdlut/GIGF)  📌
 - **SCREEN**: "SCREEN: ABenchmark for Situated Conversational Recommendation". *MM(2024)* [📄 paper](https://dl.acm.org/doi/pdf/10.1145/3664647.3681651) [💻 code](https://github.com/DongdingLin/SCREEN)  🔥
+- **UniMIND**: "A Unified Multi-task Learning Framework for Multi-goal Conversational Recommender Systems". *ACM Trans(2023)* [📄 paper](https://dl.acm.org/doi/full/10.1145/3570640) [💻 code](https://github.com/dengyang17/UniMIND)  ✅
 - **KERS**: "KERS: A Knowledge-Enhanced Framework for Recommendation Dialog Systems with Multiple Subgoals". *EMNLP-Findings(2021)* [📄 paper](https://aclanthology.org/2021.findings-emnlp.94/) [💻 code](https://github.com/z562/KERS)  ✅
 - **CR-Walker**: "CR-Walker: Tree-Structured Graph Reasoning and Dialog Acts for Conversational Recommendation". *EMNLP(2021)* [📄 paper](https://aclanthology.org/2021.emnlp-main.139/) [💻 code](https://github.com/truthless11/CR-Walker)  ✅
 - **DuRecDial2.0**: "DuRecDial 2.0: A Bilingual Parallel Corpus for Conversational Recommendation". *EMNLP(2021)* [📄 paper](https://aclanthology.org/2021.emnlp-main.356/) [💻 code](https://github.com/liuzeming01/DuRecDial)  📌
