@@ -8,8 +8,8 @@
 - **Transformer**: "Attention is All you Need". *NeurIPS(2017)* [📄 paper](https://arxiv.org/abs/1706.03762)  🔥
 
 ### 🔸Controlled Generation
-- **PPLM**: "Plug and Play Language Models: A Simple Approach to Controlled Text Generation". *ICLR(2020)* [📄 paper](https://arxiv.org/abs/1912.02164) [💻 code](https://github.com/uber-research/PPLM) 🔥
-- **CTRL**: "CTRL: A CONDITIONAL TRANSFORMER LANGUAGE MODEL FOR CONTROLLABLE GENERATION". *arXiv(2019)* [📄 paper](https://arxiv.org/abs/1909.05858) [💻 code](https://github.com/salesforce/ctrl) 🔥
+- **PPLM**: "Plug and Play Language Models: A Simple Approach to Controlled Text Generation". *ICLR(2020)* [📄 paper](https://arxiv.org/abs/1912.02164) [💻 code](https://github.com/uber-research/PPLM) ✅
+- **CTRL**: "CTRL: A CONDITIONAL TRANSFORMER LANGUAGE MODEL FOR CONTROLLABLE GENERATION". *arXiv(2019)* [📄 paper](https://arxiv.org/abs/1909.05858) [💻 code](https://github.com/salesforce/ctrl) ✅
 
 
 ## 🔹 LLM Agents (LLM-based Dialogue Agents)
