@@ -93,6 +93,12 @@
 - **ProCoT**: "Prompting and Evaluating Large Language Models for Proactive Dialogues: Clarification, Target-guided, and Non-collaboration". *EMNLP-Findings(2023)* [📄 paper](https://aclanthology.org/2023.findings-emnlp.711/) [💻 code](https://github.com/dengyang17/LLM-Proactive)  📌 
 
 
+### 🔸 Knowledge Base
+- **COMET**: "COMET: Commonsense Transformers for Automatic Knowledge Graph Construction". *ACL(2019)* [📄 paper](https://aclanthology.org/P19-1470/) [💻 code](https://github.com/atcbosselut/comet-commonsense)  📌 
+- **ConceptNet**: "ConceptNet 5.5: An Open Multilingual Graph of General Knowledge". *AAAI(2017)* [📄 paper](https://ojs.aaai.org/index.php/AAAI/article/view/11164) [💻 code](https://github.com/commonsense/conceptnet5)  📌 
+
+
+
 ## 🔹 Question Generation
 ### 🔸 Multi-hop Question Generation (Deep Question Generation)
 - **BMGQ**: "BMGQ: A Bottom-up Method for Generating Complex Multi-hop Reasoning Questions from Semi-structured Data". *arXiv(2025)* [📄 paper](https://arxiv.org/abs/2510.24151) ✅
