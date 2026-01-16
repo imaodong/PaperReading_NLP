@@ -85,7 +85,8 @@
 
 
 ### 🔸 Misc. of Proactive Dialogue
-- **AskClarifyQuestions**: "Modeling Future Conversation Turns to Teach LLMs to Ask Clarifying Questions". *ICLR(2025)* [📄 paper](https://arxiv.org/abs/2410.13788) [💻 code](https://github.com/mikejqzhang/clarifying_questions) 📌 
+- **AskClarifyQuestions**: "Modeling Future Conversation Turns to Teach LLMs to Ask Clarifying Questions". *ICLR(2025)* [📄 paper](https://arxiv.org/abs/2410.13788) [💻 code](https://github.com/mikejqzhang/clarifying_questions) 📌
+- **ProTOD**: "ProTOD: Proactive Task-oriented Dialogue System Based on Large Language Model". *COLING(2025)* [📄 paper](https://aclanthology.org/2025.coling-main.614/) [💻 code](https://github.com/melonhh/ProTOD) 📌 
 - **RMM**: "In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents". *ACL(2025)* [📄 paper](https://aclanthology.org/2025.acl-long.413/) ✅
 - **STAMPsy**: "STAMPsy: Towards SpatioTemporal-Aware Mixed-Type Dialogues for Psychological Counseling". *AAAI(2025)* [📄 paper](https://ojs.aaai.org/index.php/AAAI/article/view/34725) [💻 code](https://github.com/JOY-SWang/STAMPsy) 📌 
 - **KAPA**: "KAPA: A Deliberative Agent Framework with Tree-Structured Knowledge Base for Multi-Domain User Intent Understanding". *ACL-Findings(2025)* [📄 paper](https://aclanthology.org/2025.findings-acl.319/) [💻 code](https://anonymous.4open.science/r/KAPA-F32D/Readme.md) ✅
